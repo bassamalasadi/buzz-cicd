@@ -11,4 +11,4 @@ Please read this Medium post: https://medium.com/@robvanderleek/how-to-build-a-m
 
 You can find the deployed application of this repository at Heroku : https://secure-retreat-68080.herokuapp.com/
 
-Make sure Travis CI status is not under maintenance: https://www.traviscistatus.com/
+Make sure **Travis CI** status is not under maintenance: https://www.traviscistatus.com/
